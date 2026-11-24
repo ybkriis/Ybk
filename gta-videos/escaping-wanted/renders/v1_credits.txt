@@ -1,0 +1,28 @@
+Escaping GTA 6's Wanted System: credits and sources (v1)
+
+FOOTAGE
+No third-party footage is used. Every visual is an original graphic made for this video.
+Star, heat-icon and minimap visuals are labelled as illustrations, not the in-game HUD.
+
+VOICE
+Narration: synthetic voice (Piper TTS, "ryan" voice).
+Voice model licence: CC BY-NC-SA 4.0, from the RyanSpeech dataset (kaggle.com/datasets/roholazandie/ryanspeech).
+This licence is NON-COMMERCIAL. Re-voice with a public-domain or CC0 voice before monetising.
+
+MUSIC
+None.
+
+SOUND EFFECTS
+Synthesised for this video, no third-party samples.
+
+SOURCES (for the description)
+- Rob Nelson (Rockstar North) interview with IGN, as quoted by Engadget: https://www.engadget.com/2322564/gta-6-wanted-level-star-system-details/
+- SVG, "GTA 6's Wanted System Explained": https://www.svg.com/2246084/gta-6-wanted-system-explained-rockstar/
+- GamesRadar+, GTA 6 wanted system: https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-system-goes-up-to-6-stars-and-lets-police-track-your-face-your-clothes-and-your-car/
+- Vice, GTA 6 wanted system explained: https://www.vice.com/en/article/gta-6-wanted-system-explained/
+- Press Start, how GTA 6's wanted system works: https://press-start.com.au/guides/2026/11/18/how-gta-6s-reinvented-wanted-system-works-and-how-to-stay-out-of-trouble/
+- Game Rant, wanted star colours: https://gamerant.com/gta-6-wanted-levels-colors/
+- Beebom, how to lose cops in GTA 6: https://beebom.com/gta-6-how-to-lose-cops-avoid-arrest/
+- Al Jazeera, launch coverage: https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait
+- Metacritic: https://www.metacritic.com/game/grand-theft-auto-vi/
+Grand Theft Auto and Red Dead Redemption are trademarks of Take-Two Interactive / Rockstar Games. This video is not affiliated with them.

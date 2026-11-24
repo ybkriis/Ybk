@@ -1,2 +1,7 @@
 audio/*.wav
 audio/parts/
+edit/cache/
+edit/__pycache__/
+cards/out/
+scans/
+renders/*_preview.mp4

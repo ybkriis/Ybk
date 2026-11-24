@@ -1,0 +1,1949 @@
+{
+ "theme": "NIGHTWATCH (original): ink background, amber/red accents, Inter Display + JetBrains Mono",
+ "note": "Card-only edit; no third-party footage. Each segment: at = phrase from script/narration.md (start), card = graphic, sfx = optional accent.",
+ "segments": [
+  {
+   "at": "In GTA 5, you rob a store",
+   "card": {
+    "type": "words",
+    "lines": [
+     "ROB A STORE."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "and the stars are on your screen",
+   "card": {
+    "type": "stars",
+    "n": 1,
+    "of": 5,
+    "state": "white",
+    "game": "GTA 5",
+    "label": "STARS BEFORE YOU REACH THE DOOR"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "In GTA 6, you can rob a store",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NOBODY WATCHING."
+    ],
+    "kicker": "GTA 6"
+   }
+  },
+  {
+   "at": "and nothing happens",
+   "card": {
+    "type": "stars",
+    "n": 0,
+    "of": 6,
+    "state": "white",
+    "game": "GTA 6",
+    "label": "NOTHING HAPPENS",
+    "lcolor": "dim"
+   }
+  },
+  {
+   "at": "In GTA 5, you lose the cops",
+   "card": {
+    "type": "words",
+    "lines": [
+     "LOSE THE COPS."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "and you can drive the same car",
+   "card": {
+    "type": "words",
+    "lines": [
+     "SAME CAR.",
+     "STRAIGHT PAST THEM."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "In GTA 6, that car is",
+   "card": {
+    "type": "hud",
+    "n": 0,
+    "game": "GTA 6",
+    "icons": {
+     "VEHICLE": "on"
+    },
+    "label": "THAT CAR IS WHAT THEY'RE LOOKING FOR"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "GTA 5 tops out",
+   "card": {
+    "type": "stars",
+    "n": 5,
+    "of": 5,
+    "state": "white",
+    "game": "GTA 5",
+    "label": "FIVE STARS"
+   }
+  },
+  {
+   "at": "GTA 6 brings back the sixth",
+   "card": {
+    "type": "stars",
+    "n": 6,
+    "of": 6,
+    "state": "white",
+    "game": "GTA 6",
+    "label": "THE SIXTH STAR IS BACK",
+    "lcolor": "amber",
+    "src": "REPORTED · GAMESRADAR, ENGADGET"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "And in GTA 5, the police forget",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY FORGET YOU."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "the second the stars go out",
+   "card": {
+    "type": "stars",
+    "n": 0,
+    "of": 5,
+    "state": "white",
+    "game": "GTA 5",
+    "label": "THE SECOND THE STARS GO OUT",
+    "lcolor": "dim"
+   }
+  },
+  {
+   "at": "In GTA 6, in the words",
+   "card": {
+    "type": "words",
+    "lines": [
+     "IN THE WORDS OF",
+     "SOMEONE WHO BUILT IT"
+    ],
+    "kicker": "GTA 6",
+    "dimlines": [
+     0
+    ]
+   }
+  },
+  {
+   "at": "Our dispatch is extremely",
+   "card": {
+    "type": "quote",
+    "text": "Our dispatch is extremely specific in what it knows.",
+    "who": "ROB NELSON · CO-STUDIO HEAD, ROCKSTAR NORTH · VIA IGN",
+    "hl": "specific"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "GTA 6 has been out",
+   "card": {
+    "type": "words",
+    "lines": [
+     "OUT FOR",
+     "LESS THAN A WEEK."
+    ],
+    "kicker": "RELEASED 19 NOVEMBER 2026"
+   }
+  },
+  {
+   "at": "It's sitting around",
+   "card": {
+    "type": "metric",
+    "value": "99",
+    "label": "METACRITIC · ABOUT 150 CRITIC REVIEWS",
+    "src": "REPORTED · METACRITIC, YAHOO"
+   }
+  },
+  {
+   "at": "and the system people keep",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NOT THE MAP.",
+     "NOT THE STORY."
+    ],
+    "dimlines": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "at": "It's the cops.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE COPS."
+    ],
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "So I went through",
+   "card": {
+    "type": "columns"
+   }
+  },
+  {
+   "at": "and what's still just rumour",
+   "card": {
+    "type": "columns",
+    "hl": "RUMOUR"
+   }
+  },
+  {
+   "at": "and lined it up against",
+   "card": {
+    "type": "vs",
+    "hl": "both",
+    "left": {
+     "game": "GTA 6",
+     "text": "WHAT WE KNOW"
+    },
+    "right": {
+     "game": "GTA 5",
+     "text": "HOW ESCAPING WORKED"
+    }
+   }
+  },
+  {
+   "at": "When something comes from Rockstar",
+   "card": {
+    "type": "columns",
+    "hl": "CONFIRMED"
+   }
+  },
+  {
+   "at": "When it's from guides",
+   "card": {
+    "type": "columns",
+    "hl": "REPORTED"
+   }
+  },
+  {
+   "at": "And there are seven systems",
+   "card": {
+    "type": "map",
+    "lit": []
+   }
+  },
+  {
+   "at": "Every one of them feeds",
+   "card": {
+    "type": "map",
+    "flow": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  },
+  {
+   "at": "and by the end",
+   "card": {
+    "type": "words",
+    "lines": [
+     "OUTRUNNING THE COPS",
+     "BARELY WORKS ANYMORE"
+    ],
+    "kicker": "THE OLDEST TRICK IN GTA"
+   }
+  },
+  {
+   "at": "There's also one level",
+   "card": {
+    "type": "map",
+    "lock": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "label": "ONE LEVEL WITH NO ESCAPE · SAVED FOR LAST"
+   }
+  },
+  {
+   "at": "Let's start where every",
+   "card": {
+    "type": "chapter",
+    "num": 1,
+    "name": "THE WITNESS"
+   },
+   "sfx": "whoosh"
+  },
+  {
+   "at": "In GTA 5, the police are basically psychic",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE POLICE ARE",
+     "BASICALLY PSYCHIC."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "If a cop sees you",
+   "card": {
+    "type": "stars",
+    "n": 1,
+    "of": 5,
+    "state": "white",
+    "game": "GTA 5",
+    "label": "A COP SEES YOU. STARS."
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Pedestrians could phone it in",
+   "card": {
+    "type": "words",
+    "lines": [
+     "PEDESTRIANS COULD",
+     "PHONE IT IN..."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "but most of the time the game just knew",
+   "card": {
+    "type": "words",
+    "lines": [
+     "...BUT THE GAME",
+     "JUST KNEW."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "GTA 6 starts from the opposite",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE OPPOSITE",
+     "ASSUMPTION."
+    ],
+    "kicker": "GTA 6"
+   }
+  },
+  {
+   "at": "According to Rob Nelson",
+   "card": {
+    "type": "words",
+    "lines": [
+     "A CRIME HAS TO BE",
+     "WITNESSED"
+    ],
+    "kicker": "ROCKSTAR NORTH",
+    "accent": [
+     1
+    ],
+    "accent_color": "amber",
+    "src": "CONFIRMED · ROB NELSON (ROCKSTAR NORTH) VIA IGN"
+   }
+  },
+  {
+   "at": "or it has to set off an alarm",
+   "card": {
+    "type": "words",
+    "lines": [
+     "OR SET OFF",
+     "AN ALARM"
+    ],
+    "accent": [
+     1
+    ],
+    "accent_color": "amber",
+    "src": "CONFIRMED · ROB NELSON (ROCKSTAR NORTH) VIA IGN"
+   }
+  },
+  {
+   "at": "No witness.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NO WITNESS."
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "No alarm.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NO ALARM."
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "No wanted level.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NO WANTED LEVEL."
+    ],
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "That sounds like a small change",
+   "card": {
+    "type": "words",
+    "lines": [
+     "A SMALL CHANGE?"
+    ]
+   }
+  },
+  {
+   "at": "It means the first question",
+   "card": {
+    "type": "words",
+    "lines": [
+     "CAN I GET AWAY?"
+    ],
+    "kicker": "THE FIRST QUESTION IS NO LONGER",
+    "strike": [
+     0
+    ]
+   }
+  },
+  {
+   "at": "who saw that",
+   "card": {
+    "type": "words",
+    "lines": [
+     "WHO SAW THAT?"
+    ],
+    "kicker": "IT'S",
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Rockstar has done this before",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY'VE DONE",
+     "THIS BEFORE."
+    ],
+    "kicker": "RED DEAD REDEMPTION 2 · 2018"
+   }
+  },
+  {
+   "at": "Nelson has pointed",
+   "card": {
+    "type": "words",
+    "lines": [
+     "RDR2'S WITNESS SYSTEM",
+     "IS THE FOUNDATION"
+    ],
+    "kicker": "RDR2  →  GTA 6",
+    "src": "REPORTED · NELSON TO FAMITSU, VIA VICE"
+   }
+  },
+  {
+   "at": "In Red Dead, you could catch",
+   "card": {
+    "type": "words",
+    "lines": [
+     "CATCH THE WITNESS",
+     "BEFORE THE LAW"
+    ],
+    "kicker": "RED DEAD REDEMPTION 2"
+   }
+  },
+  {
+   "at": "Whether you can do that",
+   "card": {
+    "type": "tag",
+    "status": "UNCONFIRMED",
+    "text": "STOPPING A WITNESS IN GTA 6",
+    "sub": "NOT CONFIRMED BY ROCKSTAR"
+   }
+  },
+  {
+   "at": "But here's the part",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE PART THAT",
+     "CHANGES EVERYTHING"
+    ]
+   }
+  },
+  {
+   "at": "A witness in GTA 6 doesn't just",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NOT JUST",
+     "\"A CRIME HAPPENED\""
+    ],
+    "dimlines": [
+     1
+    ]
+   }
+  },
+  {
+   "at": "They describe who did it",
+   "card": {
+    "type": "words",
+    "lines": [
+     "A DESCRIPTION."
+    ],
+    "kicker": "THEY DESCRIBE WHO DID IT",
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "This is the heat system",
+   "card": {
+    "type": "chapter",
+    "num": 2,
+    "name": "THE DESCRIPTION"
+   },
+   "sfx": "whoosh"
+  },
+  {
+   "at": "Under your stars",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {},
+    "label": "EACH ICON = SOMETHING THEY KNOW",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "What you're wearing",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on"
+    },
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "What you're driving",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on",
+     "VEHICLE": "on"
+    },
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "What you look like",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on",
+     "VEHICLE": "on",
+     "APPEARANCE": "on"
+    },
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "The weapon you used",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on",
+     "VEHICLE": "on",
+     "APPEARANCE": "on",
+     "WEAPON": "on"
+    },
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "because there are two of you",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on",
+     "VEHICLE": "on",
+     "APPEARANCE": "on",
+     "WEAPON": "on",
+     "PAIR": "hl"
+    },
+    "label": "THEY'RE LOOKING FOR A COUPLE",
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Rockstar has said it directly",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY KNOW YOUR CAR.",
+     "THEY KNOW YOU'RE A PAIR."
+    ],
+    "kicker": "ROCKSTAR NORTH",
+    "src": "CONFIRMED · ROB NELSON (ROCKSTAR NORTH) VIA IGN"
+   }
+  },
+  {
+   "at": "In other words, they remember",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY REMEMBER",
+     "YOUR SHIRT."
+    ],
+    "accent": [
+     1
+    ],
+    "accent_color": "amber"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "Compare that to GTA 5",
+   "card": {
+    "type": "radar",
+    "mode": "none",
+    "game": "GTA 5",
+    "label": "WHAT THE POLICE KNEW: WHERE YOU WERE"
+   }
+  },
+  {
+   "at": "Your identity didn't matter",
+   "card": {
+    "type": "words",
+    "lines": [
+     "YOUR IDENTITY",
+     "DIDN'T MATTER."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "Your car didn't matter",
+   "card": {
+    "type": "words",
+    "lines": [
+     "YOUR CAR",
+     "DIDN'T MATTER."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "Lose them once",
+   "card": {
+    "type": "words",
+    "lines": [
+     "A STRANGER",
+     "AGAIN."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "In GTA 6, the stars tell you",
+   "card": {
+    "type": "vs",
+    "hl": "left",
+    "left": {
+     "game": "STARS",
+     "text": "HOW HARD THEY'RE COMING"
+    },
+    "right": {
+     "game": "ICONS",
+     "text": "WHO THEY'RE COMING FOR"
+    }
+   }
+  },
+  {
+   "at": "The icons tell you",
+   "card": {
+    "type": "vs",
+    "hl": "right",
+    "left": {
+     "game": "STARS",
+     "text": "HOW HARD THEY'RE COMING"
+    },
+    "right": {
+     "game": "ICONS",
+     "text": "WHO THEY'RE COMING FOR"
+    }
+   }
+  },
+  {
+   "at": "And there's a reason Rockstar put",
+   "card": {
+    "type": "quote",
+    "text": "Our dispatch is extremely specific in what it knows.",
+    "who": "ROB NELSON · CO-STUDIO HEAD, ROCKSTAR NORTH · VIA IGN",
+    "hl": "specific"
+   }
+  },
+  {
+   "at": "A witness can be wrong",
+   "card": {
+    "type": "words",
+    "lines": [
+     "WITNESSES",
+     "CAN BE WRONG."
+    ]
+   }
+  },
+  {
+   "at": "They can only see so much",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY ONLY SEE",
+     "SO MUCH."
+    ]
+   }
+  },
+  {
+   "at": "They forget.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY FORGET."
+    ]
+   }
+  },
+  {
+   "at": "Which is why the most dangerous",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE MOST",
+     "DANGEROUS WITNESS..."
+    ]
+   }
+  },
+  {
+   "at": "isn't a person",
+   "card": {
+    "type": "words",
+    "lines": [
+     "...ISN'T A PERSON."
+    ]
+   }
+  },
+  {
+   "at": "It's a camera.",
+   "card": {
+    "type": "camera",
+    "lines": [
+     "IT'S A CAMERA."
+    ],
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "Remember that store",
+   "card": {
+    "type": "chapter",
+    "num": 3,
+    "name": "THE CAMERA"
+   },
+   "sfx": "whoosh"
+  },
+  {
+   "at": "Nobody watching, nothing happens",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NOBODY WATCHING.",
+     "NOTHING HAPPENS."
+    ],
+    "dimlines": [
+     1
+    ]
+   }
+  },
+  {
+   "at": "Except shops in GTA 6",
+   "card": {
+    "type": "camera",
+    "lines": [
+     "SHOPS CAN HAVE CCTV"
+    ],
+    "src": "REPORTED · BEEBOM, GTA WIKI"
+   }
+  },
+  {
+   "at": "A camera doesn't panic",
+   "card": {
+    "type": "words",
+    "lines": [
+     "IT DOESN'T PANIC."
+    ]
+   }
+  },
+  {
+   "at": "It doesn't run.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "IT DOESN'T RUN."
+    ]
+   }
+  },
+  {
+   "at": "You can't scare it",
+   "card": {
+    "type": "words",
+    "lines": [
+     "YOU CAN'T SCARE IT",
+     "INTO KEEPING QUIET."
+    ]
+   }
+  },
+  {
+   "at": "And according to the heat-icon",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CCTV": "hl"
+    },
+    "label": "A CCTV SIGHTING CAN SHOW UP TOO",
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "You might have seen people comparing",
+   "card": {
+    "type": "words",
+    "lines": [
+     "LICENCE-PLATE",
+     "CAMERA NETWORKS"
+    ],
+    "kicker": "A COMPARISON PEOPLE MAKE"
+   }
+  },
+  {
+   "at": "To be clear",
+   "card": {
+    "type": "tag",
+    "status": "NO EVIDENCE",
+    "text": "OF ANY ROCKSTAR LICENCE OR PARTNERSHIP",
+    "sub": "IT'S A COMPARISON, NOT A FACT"
+   }
+  },
+  {
+   "at": "What it does mean",
+   "card": {
+    "type": "words",
+    "lines": [
+     "WHAT IT DOES MEAN..."
+    ],
+    "dimlines": [
+     0
+    ]
+   }
+  },
+  {
+   "at": "kick the door",
+   "card": {
+    "type": "words",
+    "lines": [
+     "KICK THE DOOR."
+    ],
+    "kicker": "THE OLD GTA 5 PLAN"
+   }
+  },
+  {
+   "at": "grab the cash",
+   "card": {
+    "type": "words",
+    "lines": [
+     "GRAB THE CASH."
+    ],
+    "kicker": "THE OLD GTA 5 PLAN"
+   }
+  },
+  {
+   "at": "run, now leaves",
+   "card": {
+    "type": "words",
+    "lines": [
+     "RUN."
+    ],
+    "kicker": "THE OLD GTA 5 PLAN"
+   }
+  },
+  {
+   "at": "now leaves evidence",
+   "card": {
+    "type": "words",
+    "lines": [
+     "EVIDENCE FIRST.",
+     "RUNNING SECOND."
+    ],
+    "kicker": "GTA 6",
+    "accent": [
+     0
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "And once they have evidence",
+   "card": {
+    "type": "words",
+    "lines": [
+     "STARS AS",
+     "A TIMER..."
+    ],
+    "dimlines": [
+     0,
+     1
+    ]
+   }
+  },
+  {
+   "at": "and start working like a status",
+   "card": {
+    "type": "words",
+    "lines": [
+     "...STARS AS",
+     "A STATUS."
+    ],
+    "accent": [
+     1
+    ],
+    "accent_color": "amber"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "In GTA 5, stars meant",
+   "card": {
+    "type": "chapter",
+    "num": 4,
+    "name": "THE STARS"
+   },
+   "sfx": "whoosh"
+  },
+  {
+   "at": "how many cops",
+   "card": {
+    "type": "stars",
+    "n": 3,
+    "of": 5,
+    "state": "white",
+    "game": "GTA 5",
+    "label": "HOW MANY COPS. HOW MUCH FIREPOWER."
+   }
+  },
+  {
+   "at": "In GTA 6, guides consistently",
+   "card": {
+    "type": "words",
+    "lines": [
+     "STARS THAT",
+     "CHANGE MEANING"
+    ],
+    "kicker": "GTA 6",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Hollow stars",
+   "card": {
+    "type": "stars",
+    "n": 2,
+    "of": 6,
+    "state": "hollow",
+    "game": "HOLLOW",
+    "label": "INVESTIGATING · THEY DON'T KNOW IT'S YOU",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Keep your head down",
+   "card": {
+    "type": "words",
+    "lines": [
+     "HEAD DOWN.",
+     "WALK AWAY."
+    ]
+   }
+  },
+  {
+   "at": "Solid white",
+   "card": {
+    "type": "stars",
+    "n": 3,
+    "of": 6,
+    "state": "white",
+    "game": "SOLID WHITE",
+    "label": "THEY'VE SEEN YOU · THIS IS A CHASE",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Flashing:",
+   "card": {
+    "type": "stars",
+    "n": 3,
+    "of": 6,
+    "state": "flash",
+    "game": "FLASHING",
+    "label": "THEY'RE LOSING TRACK OF YOU",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Not to fight",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NOT TO FIGHT."
+    ],
+    "kicker": "THAT'S YOUR WINDOW"
+   }
+  },
+  {
+   "at": "To vanish",
+   "card": {
+    "type": "words",
+    "lines": [
+     "TO VANISH."
+    ],
+    "accent": [
+     0
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "And red:",
+   "card": {
+    "type": "stars",
+    "n": 3,
+    "of": 6,
+    "state": "red",
+    "game": "RED",
+    "label": "ESCAPED · STILL INSIDE THE SEARCH AREA",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "You'll see grey stars",
+   "card": {
+    "type": "stars",
+    "n": 3,
+    "of": 6,
+    "state": "grey",
+    "game": "GREY?",
+    "label": "THE GUIDES DON'T AGREE WHAT GREY MEANS",
+    "src": "RUMOUR · SOURCES DISAGREE"
+   }
+  },
+  {
+   "at": "Then there's the count",
+   "card": {
+    "type": "vs",
+    "hl": "both",
+    "left": {
+     "game": "GTA 5",
+     "text": "FIVE STARS"
+    },
+    "right": {
+     "game": "GTA 6",
+     "text": "SIX STARS"
+    }
+   }
+  },
+  {
+   "at": "Rob Nelson said, quote",
+   "card": {
+    "type": "quote",
+    "text": "One star is not going to be too difficult to get away from.",
+    "who": "ROB NELSON · CO-STUDIO HEAD, ROCKSTAR NORTH · VIA IGN"
+   }
+  },
+  {
+   "at": "And the important word",
+   "card": {
+    "type": "quote",
+    "text": "One star is not going to be too difficult to get away from.",
+    "who": "ROB NELSON · CO-STUDIO HEAD, ROCKSTAR NORTH · VIA IGN",
+    "hl": "one"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "But notice what all",
+   "card": {
+    "type": "words",
+    "lines": [
+     "WHAT THEY",
+     "HAVE IN COMMON"
+    ],
+    "dimlines": [
+     0
+    ]
+   }
+  },
+  {
+   "at": "None of them is",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NONE OF THEM",
+     "IS SAFE."
+    ],
+    "accent": [
+     1
+    ]
+   }
+  },
+  {
+   "at": "Because in GTA 6, the stars going away",
+   "card": {
+    "type": "stars",
+    "n": 0,
+    "of": 6,
+    "state": "white",
+    "game": "GTA 6",
+    "label": "NO STARS ≠ NOT LOOKING",
+    "lcolor": "amber"
+   }
+  },
+  {
+   "at": "In GTA 5, escaping was geometry",
+   "card": {
+    "type": "chapter",
+    "num": 5,
+    "name": "THE HEAT"
+   },
+   "sfx": "whoosh"
+  },
+  {
+   "at": "Get out of the vision cones",
+   "card": {
+    "type": "radar",
+    "mode": "cones",
+    "game": "GTA 5",
+    "label": "STAY OUT OF THE CONES · WAIT FOR THE FLASHING TO STOP"
+   }
+  },
+  {
+   "at": "The cops had a cone",
+   "card": {
+    "type": "radar",
+    "mode": "cones",
+    "game": "GTA 5",
+    "label": "THE COPS HAD A CONE. YOU STAYED OUT OF IT."
+   }
+  },
+  {
+   "at": "In GTA 6, guides report that heat lingers",
+   "card": {
+    "type": "radar",
+    "mode": "zone",
+    "game": "GTA 6",
+    "label": "HEAT LINGERS WHERE THE CRIME HAPPENED",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Police search using what they know",
+   "card": {
+    "type": "hud",
+    "n": 2,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on",
+     "VEHICLE": "on",
+     "APPEARANCE": "on"
+    },
+    "label": "THEY SEARCH A DESCRIPTION, NOT A DOT",
+    "src": "REPORTED · PRESS START, BEEBOM"
+   }
+  },
+  {
+   "at": "So the cone became",
+   "card": {
+    "type": "radar",
+    "mode": "zone",
+    "game": "GTA 6",
+    "label": "THE CONE BECAME A WHOLE NEIGHBOURHOOD",
+    "player": false
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "And here's the trap",
+   "card": {
+    "type": "words",
+    "lines": [
+     "HERE'S THE TRAP."
+    ],
+    "accent": [
+     0
+    ]
+   }
+  },
+  {
+   "at": "If you go back",
+   "card": {
+    "type": "words",
+    "lines": [
+     "SEEN AGAIN.",
+     "STILL MATCHING."
+    ],
+    "kicker": "IF YOU GO BACK"
+   }
+  },
+  {
+   "at": "guides say your old wanted level",
+   "card": {
+    "type": "stars",
+    "n": 3,
+    "of": 6,
+    "state": "red",
+    "game": "SNAP-BACK",
+    "label": "YOUR OLD WANTED LEVEL COMES BACK",
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "You didn't escape",
+   "card": {
+    "type": "words",
+    "lines": [
+     "YOU DIDN'T ESCAPE."
+    ]
+   }
+  },
+  {
+   "at": "You just paused it",
+   "card": {
+    "type": "words",
+    "lines": [
+     "YOU PAUSED IT."
+    ],
+    "accent": [
+     0
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "Even the response is different",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NOT INSTANT."
+    ],
+    "kicker": "DISPATCH",
+    "src": "REPORTED · PREVIEW COVERAGE"
+   }
+  },
+  {
+   "at": "There's a delay",
+   "card": {
+    "type": "words",
+    "lines": [
+     "A DELAY."
+    ],
+    "kicker": "DISPATCH"
+   }
+  },
+  {
+   "at": "Which sounds like a gift",
+   "card": {
+    "type": "words",
+    "lines": [
+     "A GIFT."
+    ],
+    "accent": [
+     0
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "It's the time you get",
+   "card": {
+    "type": "words",
+    "lines": [
+     "TIME TO",
+     "DECIDE."
+    ]
+   }
+  },
+  {
+   "at": "Because in GTA 6, running isn't",
+   "card": {
+    "type": "words",
+    "lines": [
+     "RUNNING ISN'T",
+     "ENOUGH."
+    ]
+   }
+  },
+  {
+   "at": "You have to change.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "YOU HAVE TO",
+     "CHANGE."
+    ],
+    "accent": [
+     1
+    ],
+    "accent_color": "amber"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "So let's do the fast round",
+   "card": {
+    "type": "chapter",
+    "num": 6,
+    "name": "THE ESCAPE"
+   },
+   "sfx": "whoosh"
+  },
+  {
+   "at": "Here's how people escaped",
+   "card": {
+    "type": "words",
+    "lines": [
+     "HOW WE ESCAPED",
+     "IN GTA 5"
+    ],
+    "kicker": "FAST ROUND"
+   }
+  },
+  {
+   "at": "Number one",
+   "card": {
+    "type": "list",
+    "kicker": "GTA 5 · FAST ROUND",
+    "num": "01",
+    "title": "THE TUNNEL",
+    "sub": "DIVE IN · WAIT FOR THE CONE TO PASS"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Number two",
+   "card": {
+    "type": "list",
+    "kicker": "GTA 5 · FAST ROUND",
+    "num": "02",
+    "title": "THE RESPRAY",
+    "sub": "OUT OF SIGHT · INTO THE PAINT SHOP"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Number three",
+   "card": {
+    "type": "list",
+    "kicker": "GTA 5 · FAST ROUND",
+    "num": "03",
+    "title": "OUTDRIVE THEM"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Number four",
+   "card": {
+    "type": "list",
+    "kicker": "GTA ONLINE · FAST ROUND",
+    "num": "04",
+    "title": "PAY LESTER",
+    "sub": "THE COPS LOOK THE OTHER WAY"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "Every one of those is about",
+   "card": {
+    "type": "words",
+    "lines": [
+     "ALL ABOUT",
+     "THEIR EYES."
+    ]
+   }
+  },
+  {
+   "at": "Not one is about who you are",
+   "card": {
+    "type": "words",
+    "lines": [
+     "NONE ABOUT",
+     "WHO YOU ARE."
+    ],
+    "accent": [
+     1
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "Now GTA 6",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE NEW",
+     "PLAYBOOK"
+    ],
+    "kicker": "GTA 6",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Break line of sight",
+   "card": {
+    "type": "list",
+    "kicker": "GTA 6 · THE PLAYBOOK",
+    "num": "01",
+    "title": "BREAK LINE OF SIGHT"
+   }
+  },
+  {
+   "at": "Get out of the search area",
+   "card": {
+    "type": "list",
+    "kicker": "GTA 6 · THE PLAYBOOK",
+    "num": "02",
+    "title": "LEAVE THE SEARCH AREA"
+   }
+  },
+  {
+   "at": "But then you look at those icons",
+   "card": {
+    "type": "hud",
+    "n": 0,
+    "all": true,
+    "icons": {
+     "CLOTHING": "on",
+     "VEHICLE": "on",
+     "PAIR": "on"
+    },
+    "label": "NOW TAKE THEM AWAY, ONE AT A TIME",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "Change your clothes",
+   "card": {
+    "type": "hud",
+    "n": 0,
+    "all": true,
+    "icons": {
+     "CLOTHING": "gone",
+     "VEHICLE": "on",
+     "PAIR": "on"
+    },
+    "label": "CHANGE YOUR CLOTHES",
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "So lose the shirt",
+   "card": {
+    "type": "words",
+    "lines": [
+     "LOSE THE SHIRT."
+    ],
+    "kicker": "THEY REMEMBER YOUR SHIRT",
+    "accent": [
+     0
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "Swap the car",
+   "card": {
+    "type": "hud",
+    "n": 0,
+    "all": true,
+    "icons": {
+     "CLOTHING": "gone",
+     "VEHICLE": "gone",
+     "PAIR": "on"
+    },
+    "label": "SWAP THE CAR",
+    "src": "REPORTED · GAME GUIDES"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "And this is the new one",
+   "card": {
+    "type": "hud",
+    "n": 0,
+    "all": true,
+    "icons": {
+     "CLOTHING": "gone",
+     "VEHICLE": "gone",
+     "PAIR": "hl"
+    },
+    "label": "THE NEW ONE: SPLIT UP",
+    "lcolor": "amber",
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "If police are looking for a couple",
+   "card": {
+    "type": "hud",
+    "n": 0,
+    "all": true,
+    "icons": {
+     "CLOTHING": "gone",
+     "VEHICLE": "gone",
+     "PAIR": "gone"
+    },
+    "label": "JASON AND LUCIA, SEPARATE WAYS",
+    "src": "CONFIRMED · ROB NELSON (ROCKSTAR NORTH) VIA IGN"
+   },
+   "sfx": "tick"
+  },
+  {
+   "at": "That is the whole shift",
+   "card": {
+    "type": "vs",
+    "hl": "left",
+    "left": {
+     "game": "GTA 5",
+     "text": "ESCAPE THE POLICE"
+    },
+    "right": {
+     "game": "GTA 6",
+     "text": "ESCAPE THE DESCRIPTION"
+    }
+   }
+  },
+  {
+   "at": "In GTA 6, you escape the description",
+   "card": {
+    "type": "vs",
+    "hl": "right",
+    "left": {
+     "game": "GTA 5",
+     "text": "ESCAPE THE POLICE"
+    },
+    "right": {
+     "game": "GTA 6",
+     "text": "ESCAPE THE DESCRIPTION"
+    }
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "Now, the rumour pile",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE RUMOUR",
+     "PILE"
+    ],
+    "kicker": "UNVERIFIED",
+    "kcolor": "pink"
+   }
+  },
+  {
+   "at": "One guide says Pay",
+   "card": {
+    "type": "tag",
+    "status": "RUMOUR",
+    "text": "PAY 'N' SPRAY CLEARS ANY STAR LEVEL",
+    "sub": "ONE SOURCE · OTHERS DON'T MENTION IT"
+   }
+  },
+  {
+   "at": "Can you stop a witness",
+   "card": {
+    "type": "tag",
+    "status": "UNCONFIRMED",
+    "text": "STOP A WITNESS BEFORE THEY CALL IT IN"
+   }
+  },
+  {
+   "at": "And one guide says there's no cheat",
+   "card": {
+    "type": "tag",
+    "status": "ONE SOURCE",
+    "text": "NO CHEAT LOWERS YOUR WANTED LEVEL"
+   }
+  },
+  {
+   "at": "Which brings us to the one level",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE ONE LEVEL WHERE",
+     "NONE OF THIS WORKS"
+    ]
+   }
+  },
+  {
+   "at": "Six stars.",
+   "card": {
+    "type": "chapter",
+    "num": 7,
+    "name": "THE SIXTH STAR"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "GTA 3, Vice City",
+   "card": {
+    "type": "timeline"
+   }
+  },
+  {
+   "at": "GTA 5 took it away",
+   "card": {
+    "type": "timeline",
+    "hl": "GTA V"
+   }
+  },
+  {
+   "at": "GTA 6 brings it back",
+   "card": {
+    "type": "timeline",
+    "hl": "GTA VI"
+   }
+  },
+  {
+   "at": "reports say you're pursued",
+   "card": {
+    "type": "stars",
+    "n": 6,
+    "of": 6,
+    "state": "white",
+    "game": "SIX STARS",
+    "label": "PURSUED ACROSS THE WHOLE MAP",
+    "src": "REPORTED · ENGADGET"
+   }
+  },
+  {
+   "at": "And according to the guides, this is where",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THE PLAYBOOK",
+     "STOPS WORKING."
+    ],
+    "src": "REPORTED · GAME GUIDES"
+   }
+  },
+  {
+   "at": "It ends one of two ways",
+   "card": {
+    "type": "words",
+    "lines": [
+     "TWO WAYS",
+     "IT ENDS."
+    ]
+   }
+  },
+  {
+   "at": "Busted.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "BUSTED."
+    ],
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "Or wasted.",
+   "card": {
+    "type": "words",
+    "lines": [
+     "WASTED."
+    ],
+    "accent": [
+     0
+    ]
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "That's from guides, not Rockstar",
+   "card": {
+    "type": "tag",
+    "status": "REPORTED",
+    "text": "FROM GUIDES, NOT ROCKSTAR"
+   }
+  },
+  {
+   "at": "Every system we've talked about",
+   "card": {
+    "type": "map",
+    "flow": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "title": "EVERY SYSTEM",
+    "label": "A WAY OF LOSING INFORMATION"
+   }
+  },
+  {
+   "at": "No witness, nothing to report",
+   "card": {
+    "type": "map",
+    "flow": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "hl": [
+     1
+    ],
+    "title": "EVERY SYSTEM",
+    "label": "NO WITNESS → NOTHING TO REPORT"
+   }
+  },
+  {
+   "at": "Change the shirt, lose an icon",
+   "card": {
+    "type": "map",
+    "flow": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "hl": [
+     2,
+     6
+    ],
+    "title": "EVERY SYSTEM",
+    "label": "CHANGE THE SHIRT → LOSE AN ICON"
+   }
+  },
+  {
+   "at": "Leave the area, let the heat cool",
+   "card": {
+    "type": "map",
+    "flow": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "hl": [
+     5
+    ],
+    "title": "EVERY SYSTEM",
+    "label": "LEAVE THE AREA → LET THE HEAT COOL"
+   }
+  },
+  {
+   "at": "At six stars, they don't need",
+   "card": {
+    "type": "map",
+    "flow": true,
+    "lit": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7
+    ],
+    "final": true,
+    "title": "IT ALL CONNECTS",
+    "label": "AT SIX STARS, THEY DON'T NEED A DESCRIPTION"
+   },
+   "sfx": "hit"
+  },
+  {
+   "at": "They know exactly who you are",
+   "card": {
+    "type": "words",
+    "lines": [
+     "THEY KNOW",
+     "WHO YOU ARE."
+    ],
+    "accent": [
+     1
+    ]
+   }
+  },
+  {
+   "at": "So here's the real difference",
+   "card": {
+    "type": "vs",
+    "hl": "both",
+    "left": {
+     "game": "GTA 5"
+    },
+    "right": {
+     "game": "GTA 6"
+    }
+   }
+  },
+  {
+   "at": "GTA 5 asked one question",
+   "card": {
+    "type": "vs",
+    "hl": "left",
+    "left": {
+     "game": "GTA 5",
+     "text": "CAN THEY SEE YOU?"
+    },
+    "right": {
+     "game": "GTA 6"
+    }
+   }
+  },
+  {
+   "at": "GTA 6 asks a different one",
+   "card": {
+    "type": "vs",
+    "hl": "right",
+    "left": {
+     "game": "GTA 5",
+     "text": "CAN THEY SEE YOU?"
+    },
+    "right": {
+     "game": "GTA 6",
+     "text": "DO THEY KNOW WHO YOU ARE?"
+    }
+   }
+  },
+  {
+   "at": "In GTA 5, you escaped by getting",
+   "card": {
+    "type": "words",
+    "lines": [
+     "GET OUT",
+     "OF SIGHT."
+    ],
+    "kicker": "GTA 5"
+   }
+  },
+  {
+   "at": "In GTA 6, you escape by becoming",
+   "card": {
+    "type": "words",
+    "lines": [
+     "BECOME SOMEONE",
+     "THEY'RE NOT LOOKING FOR."
+    ],
+    "kicker": "GTA 6",
+    "accent": [
+     1
+    ],
+    "accent_color": "amber"
+   }
+  },
+  {
+   "at": "Because the dispatch",
+   "card": {
+    "type": "quote",
+    "text": "Our dispatch is extremely specific in what it knows.",
+    "who": "ROB NELSON · CO-STUDIO HEAD, ROCKSTAR NORTH · VIA IGN",
+    "hl": "specific",
+    "push": 0.02
+   }
+  },
+  {
+   "at": "So, how are you escaping",
+   "card": {
+    "type": "end",
+    "push": 0.02
+   }
+  }
+ ]
+}
