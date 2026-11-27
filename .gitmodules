@@ -1,0 +1,9 @@
+[submodule "tools/yt-dlp"]
+	path = tools/yt-dlp
+	url = https://github.com/yt-dlp/yt-dlp.git
+[submodule "tools/clipsai"]
+	path = tools/clipsai
+	url = https://github.com/ClipsAI/clipsai.git
+[submodule "tools/postiz-app"]
+	path = tools/postiz-app
+	url = https://github.com/gitroomhq/postiz-app.git
